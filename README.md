@@ -1,7 +1,7 @@
 # Virtual-Machine
 
-Deployed and managed a virtual environment using VMware.
+Deployed a VMware-based virtual environment; installed and configured Windows Server 2022.
 
-Installed and configured Windows Server 2022, setting up a domain for learning and testing.
+Set up a domain for educational and testing purposes using Active Directory.
 
-Implemented Active Directory services, including user accounts, security, and access controls.
+Implemented Active Directory services, including user accounts, security settings, and access controls.
